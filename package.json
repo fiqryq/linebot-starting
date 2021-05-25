@@ -1,0 +1,17 @@
+{
+  "name": "linebot-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linebot"
+  ],
+  "author": "Fiqry choerudin",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^7.3.0"
+  }
+}
